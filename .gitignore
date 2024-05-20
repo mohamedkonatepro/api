@@ -112,3 +112,8 @@ exports
 dist
 build
 .strapi-updater.json
+
+
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
